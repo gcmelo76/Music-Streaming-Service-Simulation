@@ -17,16 +17,6 @@ A web-based music streaming service simulation built with **Python**, **Flask**,
 
 ---
 
-## Technologies Used
-
-- **Programming Language**: Python
-- **Framework**: Flask
-- **Database**: PostgreSQL
-- **API Testing**: Postman
-- **Authentication**: JSON Web Tokens (JWT)
-
----
-
 ## Getting Started
 
 ### Prerequisites
