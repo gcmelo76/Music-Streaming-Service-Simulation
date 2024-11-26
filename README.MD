@@ -43,16 +43,20 @@ A web-based music streaming service simulation built with **Python**, **Flask**,
    cd Music-Streaming-Service-Simulation
 
 2. **Install Dependencies**
+   ```bash
    pip install -r requirements.txt
 
 3. **Set Up the Database**
+   ```bash
    Use pgAdmin or the command line to create a PostgreSQL database.
    Run the provided SQL script (schema.sql) to initialize the database schema.
 
 4. **Configure Database Connection**
+   ```bash
    Update the config.py file with your PostgreSQL credentials.
 
 5. **Run the Flask Application**
+   ```bash
    python app.py
 
 
